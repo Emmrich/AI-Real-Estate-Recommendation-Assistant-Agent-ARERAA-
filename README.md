@@ -24,10 +24,10 @@ Developed with Voiceflow, OpenAI, and integrated APIs, ARERAA
 
 🧩 **Try these commands:**  
 
-“Show me 3-bedroom apartments in Lekki under ₦200 million.”
-“Compare properties in Banana Island and Ikoyi.”
-“Schedule a property tour for tomorrow.”
-“Find waterfront properties within my budget.”
+- “Show me 3-bedroom apartments in Lekki under ₦200 million.”
+- “Compare properties in Banana Island and Ikoyi.”
+- “Schedule a property tour for tomorrow.”
+- “Find waterfront properties within my budget.”
 
 ---
 🎯 Core Objectives
